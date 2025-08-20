@@ -4,7 +4,7 @@ Este proyecto consiste en la creación de una **escena 3D** desarrollada con **L
 
 ---
 
-LINK DE DESCARGA DRIVE: https://drive.google.com/drive/folders/14Y-eEVP03dRgulf46stDNilf02SL0i-B?usp=sharing
+LINK DE DESCARGA DRIVE: https://drive.google.com/drive/folders/1_WqBo2Cedo9325Xv8c_PSWvzBi76plo1?usp=sharing
 
 ---
 
