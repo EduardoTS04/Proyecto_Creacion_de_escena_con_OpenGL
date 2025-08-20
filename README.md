@@ -4,6 +4,10 @@ Este proyecto consiste en la creación de una **escena 3D** desarrollada con **L
 
 ---
 
+LINK DE DESCARGA DRIVE: https://drive.google.com/drive/folders/14Y-eEVP03dRgulf46stDNilf02SL0i-B?usp=sharing
+
+---
+
 ## 🚀 Características principales
 
 * **Skybox**: implementación de un entorno cúbico que envuelve la escena con texturas para simular un ambiente realista.
