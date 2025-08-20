@@ -88,7 +88,8 @@ La escena final incluye:
 
 ---
 
-¿Quieres que te prepare este README también en **inglés técnico**, como se suele usar en GitHub, o prefieres dejarlo solo en español?
+<img src="assets/Captura de pantalla 2025-08-20 004132.png" alt="Skybox" width="400">
+<img src="assets/Captura de pantalla 2025-08-20 003424.png" alt="Animación" width="600">
 
 
 
